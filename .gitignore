@@ -2,6 +2,7 @@
 *.log
 *.out
 *.pdf
+*.toc
 *.synctex.gz
 *.log
 .DS_Store
