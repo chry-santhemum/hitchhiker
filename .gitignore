@@ -3,6 +3,7 @@
 *.out
 *.pdf
 *.toc
+*.dvi
 *.synctex.gz
 *.log
 .DS_Store
